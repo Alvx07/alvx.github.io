@@ -2,7 +2,7 @@
   "name": "uikit-ecommerce-template",
   "version": "1.0.0",
   "description": "E-commerce template built with UIkIt",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
     "server": "gulp server",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chekromul/uikit-ecommerce-template.git"
+    "url": "git+https://github.com/Alvx07/uikit-ecommerce-template.git"
   },
   "author": "Roman Chekurov",
   "license": "MIT",
-  "homepage": "https://github.com/chekromul/uikit-ecommerce-template",
+  "homepage": "https://github.com/Alvx07/uikit-ecommerce-template",
   "devDependencies": {
     "autoprefixer": "^9.1.0",
     "browser-sync": "^2.24.6",
